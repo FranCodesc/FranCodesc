@@ -1,7 +1,7 @@
 # Ciao, sono Francesco
 
 Ingegnere informatico al termine del Master in AI e Agenti AI per il Business (Università Marconi / Start2Impact).
-Sviluppo applicazioni full-stack e agenti AI integrati in backend reali. Vivo in provinica di Mantova(Italia) e cerco una prima esperienza in un team di sviluppo.
+Sviluppo applicazioni full-stack e agenti AI integrati in backend reali. Vivo in provincia di Mantova(Italia) e cerco una prima esperienza in un team di sviluppo.
 
 **Stack:** Node.js · Express · React · TypeScript · SQL · Docker · GitHub Actions · Python · LangChain/LangGraph
 
