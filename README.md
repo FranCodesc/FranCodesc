@@ -14,6 +14,7 @@ Sviluppo applicazioni full-stack e agenti AI integrati in backend reali. Vivo in
 | [pof-chatbot](https://github.com/FranCodesc/pof-chatbot) | Chatbot con RAG come tool di function calling, storico su SQLite |
 | [ecobot-energy-agent](https://github.com/FranCodesc/ecobot-energy-agent) | Agente LangGraph con 14 tool e interfaccia Streamlit |
 | [sql-global-data-analysis](https://github.com/FranCodesc/sql-global-data-analysis) | Modello relazionale PostgreSQL e 11 query con JOIN e aggregazioni |
+| [tongue-tech](https://github.com/FranCodesc/tongue-tech) | JavaScript ES6+ con Module Pattern, unit test Vitest e demo live |
 
 ## Ora sto lavorando a
 
